@@ -1,0 +1,11 @@
+/Users/bwt/tools/mashadar/target/x86_64-pc-windows-gnu/release/deps/libgetrandom-d4159144130684fd.rmeta: /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error_impls.rs /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/windows.rs
+
+/Users/bwt/tools/mashadar/target/x86_64-pc-windows-gnu/release/deps/libgetrandom-d4159144130684fd.rlib: /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error_impls.rs /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/windows.rs
+
+/Users/bwt/tools/mashadar/target/x86_64-pc-windows-gnu/release/deps/getrandom-d4159144130684fd.d: /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error_impls.rs /Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/windows.rs
+
+/Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs:
+/Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs:
+/Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs:
+/Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error_impls.rs:
+/Users/bwt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/windows.rs:
